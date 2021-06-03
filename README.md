@@ -2,14 +2,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 </div>
 
-![JustEnderBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enderboidev&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderboidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JustEnderBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEnderBoi&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustEnderBoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"><img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/topdev0729/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=enderboidev&color=DE002D">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=JustEnderBoi&color=DE002D">
     </a>
 </div>
 
