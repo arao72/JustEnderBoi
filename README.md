@@ -14,7 +14,7 @@
 </div>
 
 Connect With Me:
-[![](https://discord.c99.nl/widget/theme-4/744309788837413005.png)](https://discord.gg/JGgCssgUvj)
+[!]https://discord.c99.nl/widget/theme-2/744309788837413005.png
 
 <table><tr>
     <td valign="top" width="50%">
