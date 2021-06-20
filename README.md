@@ -2,6 +2,17 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 </div>
 
+
+Things I'm adding to my multi-episode series on how to make a discord bot with discord.py
+- [x] 8ball Command
+- [x] Purge command
+- [ ] Kick + Ban Command
+- [ ] Mute Command
+- [ ] Warn Command
+- [ ] Meme Command + API Walkthrough
+- [ ] Unban Command
+- [ ] Snipe Command
+
 ![JustEnderBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEnderBoi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustEnderBoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
