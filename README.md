@@ -3,7 +3,7 @@
 </div>
 
 
-Things I'm adding to my multi-episode series on how to make a discord bot with discord.py
+Things I'm adding to my multi-episode series on how to make a discord bot with discord.py (last updates jun 20)
 - [x] 8ball Command
 - [x] Purge command
 - [ ] Kick + Ban Command
