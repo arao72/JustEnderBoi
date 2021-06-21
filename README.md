@@ -14,6 +14,7 @@ Things I'm adding to my multi-episode series on how to make a discord bot with d
 - [ ] Unban Command
 - [ ] Snipe Command
 - [ ] Custom Help Command 
+- [ ] Error Handling
 
 ![JustEnderBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEnderBoi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustEnderBoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
