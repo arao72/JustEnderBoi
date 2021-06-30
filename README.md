@@ -3,13 +3,13 @@
 </div>
 
 
-Things I'm adding to my multi-episode series on how to make a discord bot with discord.py (last updated jun 20)
+Things I'm adding to my multi-episode series on how to make a discord bot with discord.py (last updated jun 30)
 - [x] 8ball Command
 - [x] Purge command
-- [ ] Kick + Ban Command
-- [ ] Advanced Embeds
+- [x] Kick + Ban Command
+- [x] Slowmode Command
 - [ ] Mute Command
-- [ ] Warn Command
+- [x] Version Command
 - [ ] Meme Command + API Walkthrough
 - [ ] Unban Command
 - [ ] Snipe Command
